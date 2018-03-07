@@ -1,3 +1,11 @@
+# Forked from resin-io/resin-wifi-connect
+
+* Standalone Docker installation 
+* Enabled dnsmasq DHCP server on 192.168.42.0/24
+
+
+
+
 <h1 align="center"><img width="460" src="https://github.com/resin-io/resin-wifi-connect/raw/master/docs/images/wifi-connect.png" /></h1>
 
 > Easy WiFi setup for Linux devices from your mobile phone or laptop
